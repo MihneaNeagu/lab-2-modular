@@ -1,0 +1,13 @@
+# ninja log v5
+1	198	6677672104990605	build.ninja	9ee2394e81c0d776
+248	358	6677664130320959	lab_2_modular.exe	7ac5a1cbaa062fa5
+3	247	6677662568764110	CMakeFiles/lab_2_modular.dir/main.cpp.obj	8b1670039760718b
+14	276	6677662133447074	CMakeFiles/lab_2_modular.dir/citire.cpp.obj	5df8547a4c8497e1
+5	248	6677664129260412	CMakeFiles/lab_2_modular.dir/afisare.cpp.obj	ed2c053ae2fa0043
+14	93	6677674390393546	CMakeFiles/lab_2_modular.dir/secv5.cpp.obj	52658e9553390353
+2	310	6677674392477612	CMakeFiles/lab_2_modular.dir/main.cpp.obj	8b1670039760718b
+12	328	6677674392740651	CMakeFiles/lab_2_modular.dir/secv4.cpp.obj	b6de60ec52cc2015
+328	447	6677674393880971	lab_2_modular.exe	81bb3d758ab3461a
+2	259	6677746179758657	CMakeFiles/lab_2_modular.dir/main.cpp.obj	8b1670039760718b
+12	261	6677746179788198	CMakeFiles/lab_2_modular.dir/secv5.cpp.obj	52658e9553390353
+261	348	6677746180634326	lab_2_modular.exe	81bb3d758ab3461a
