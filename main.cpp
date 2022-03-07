@@ -3,12 +3,14 @@
 #include "afisare.h"
 #include "secv4.h"
 #include "secv5.h"
+#include "tests.h"
 using namespace std;
 int v[1001],n;
 int main()
 {
     while (true)
     {
+        test();
         cout<<"1. Scrieti o lista de numere intregi: "<<'\n';
         cout<<"2. Afisati lista de numere intregi: "<<'\n';
         cout<<"3. Afisati cea mai lunga secventa care : "<<'\n';
